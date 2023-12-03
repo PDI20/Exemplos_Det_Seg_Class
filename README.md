@@ -10,4 +10,4 @@
 
 | **Notebooks**| **Google Colab**|
 |:------------:|:---------------:|
-| Recorte da Imagem| [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](C:\Users\Andre\Documents\GitHub\Exemplos_Det_Seg_Class\notebooks\recorte_imagem.ipynb) |
+| Recorte da Imagem| [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PDI20/Exemplos_Det_Seg_Class/blob/main/notebooks/recorte_imagem.ipynb) |
