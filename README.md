@@ -10,7 +10,7 @@
 
 | **Notebooks**| **Google Colab**|
 |:------------:|:---------------:|
-| Recorte da Imagem | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PDI20/Exemplos_Det_Seg_Class/blob/main/notebooks/recorte_imagem.ipynb) |
-| PaddleOCR| [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PDI20/Exemplos_Det_Seg_Class/blob/main/notebooks/paddleocr.ipynb) | 
-| Método de Otsu | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PDI20/Exemplos_Det_Seg_Class/blob/main/notebooks/metodo_otsu.ipynb) | 
-| Grounding Dino + Segment Anything Model | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PDI20/Exemplos_Det_Seg_Class/blob/main/notebooks/metodo_otsu.ipynb) | 
+| **Recorte da Imagem** | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PDI20/Exemplos_Det_Seg_Class/blob/main/notebooks/recorte_imagem.ipynb) |
+| **PaddleOCR** | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PDI20/Exemplos_Det_Seg_Class/blob/main/notebooks/paddleocr.ipynb) | 
+| **Método de Otsu** | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PDI20/Exemplos_Det_Seg_Class/blob/main/notebooks/metodo_otsu.ipynb) | 
+| **Grounding Dino + Segment Anything Model** | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PDI20/Exemplos_Det_Seg_Class/blob/main/notebooks/metodo_otsu.ipynb) | 
