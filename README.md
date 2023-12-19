@@ -16,7 +16,7 @@
 | **Notebooks**| **Google Colab**|
 |:------------:|:---------------:|
 | **Recorte da Imagem** | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PDI20/Exemplos_Det_Seg_Class/blob/main/notebooks/recorte_imagem.ipynb) |
-| **Recorte da Imagem (Completo)** | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PDI20/Exemplos_Det_Seg_Class/blob/main/notebooks/recorte_imagens_completo.ipynb) |
-| **PaddleOCR** | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PDI20/Exemplos_Det_Seg_Class/blob/main/notebooks/paddleocr_V2.ipynb) |
-| **Método Otsu** | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PDI20/Exemplos_Det_Seg_Class/blob/main/notebooks/metodo_otsu_V2.ipynb) |
-| **Grouding Dino + Segment Anything Model** | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PDI20/Exemplos_Det_Seg_Class/blob/main/notebooks/Segmentacao_Grounding_Dino_Segment_Anything_Model_V2.ipynb) |
+| **Recorte da Imagem (Completo)** | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PDI20/Exemplos_Det_Seg_Class/blob/main/notebooks/recorte_imagens_completo_V3.ipynb) |
+| **PaddleOCR** | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PDI20/Exemplos_Det_Seg_Class/blob/main/notebooks/paddleocr_V3.ipynb) |
+| **Método Otsu** | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PDI20/Exemplos_Det_Seg_Class/blob/main/notebooks/metodo_otsu_V3.ipynb) |
+| **Grouding Dino + Segment Anything Model** | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PDI20/Exemplos_Det_Seg_Class/blob/main/notebooks/Grounding_Dino_SAM_V3.ipynb) |
