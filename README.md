@@ -1,3 +1,8 @@
+
+# Atualização do repositório
+
+- **Notebooks do recorte de imagem, PaddleOCR, Método de Otsu e Grounding Dino + SAM atualizados.** (19/12/2023)
+
 # Notebooks com exemplos de Deteção, Segmentação e Classificação (deep learning)
 
 | **Notebooks**| **Google Colab** | **Repositório/Artigos/Websites**|
